@@ -51,7 +51,7 @@ a {
 .header{
     background-color: #e6f0ff;
     position: sticky;
-    top: 0;
+    top: -18px;
     left: 0;
     z-index: 1;
 }
